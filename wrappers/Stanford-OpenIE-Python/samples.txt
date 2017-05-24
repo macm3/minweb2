@@ -1,5 +1,0 @@
-[13]  arXiv:1705.03951 [pdf, other]
-Learning 3D Object Categories by Looking Around Them
-David Novotny, Diane Larlus, Andrea Vedaldi
-Subjects: Computer Vision and Pattern Recognition (cs.CV)
-Traditional approaches for learning 3D object categories use either synthetic data or manual supervision. In this paper, we propose instead an unsupervised method that is cued by observing objects from a moving vantage point. Our system builds on two innovations: a Siamese viewpoint factorization network that robustly aligns different videos together without explicitly comparing 3D shapes; and a 3D shape completion network that can extract the full shape of an object from partial observations. We also demonstrate the benefits of configuring networks to perform probabilistic predictions as well as of geometry-aware data augmentation schemes. State-of-the-art results are demonstrated on publicly-available benchmarks.
