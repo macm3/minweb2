@@ -1,0 +1,1 @@
+The author considers a class of mechatronic puzzles falling in the mixed-reality category, present examples of such devices, and propose a way to categorize them. Close relationships of such devices with the Tangible User Interface are described. The device designed by the author as an illustration of a mixed reality puzzle is presented.
